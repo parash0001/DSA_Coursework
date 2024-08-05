@@ -1,3 +1,5 @@
+//Question number 7 solution
+
 package org.example;
 
 import javax.swing.*;

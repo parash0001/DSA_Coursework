@@ -1,3 +1,5 @@
+//Question number 6 solution
+
 package org.example;
 
 import java.awt.*;
